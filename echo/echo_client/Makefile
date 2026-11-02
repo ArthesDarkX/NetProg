@@ -1,6 +1,6 @@
 CXX      = g++
 CXXFLAGS = -Wall -Wextra -O2
-TARGET   = echo_server
+TARGET   = echo_client
 SRC      = main.cpp
 
 $(TARGET): $(SRC)
